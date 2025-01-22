@@ -20,7 +20,13 @@ const userSchema = new mongoose.Schema(
       required: true,
       
     },
-   
+
+
+
+
+
+
+    //pramodhkumar
     age:{
         type:Number,
         required:true,
